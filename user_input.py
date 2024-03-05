@@ -11,9 +11,3 @@ location = input("Where do you live, mate? ")
 
 # Personalized message
 print("Hello {}, you are {} years old and live in {}.".format(name, age, location))
-
-a = (1, 2, 3)
-
-b = list(a)
-
-print(b)
